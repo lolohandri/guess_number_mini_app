@@ -32,7 +32,7 @@ To use this Telegram Mini App there is need _https_ protocol *(Telegram Api work
 ```
 
 ### Run tunnels
-Run this two copiable pieces in two separate _command lines_ 
+Run this two copiable pieces in two separate _command propmts_ 
 ```ngrok config add-authtoken 2lGTA18Nr45uNUDoOQJxMjlXACN_5E4es5i13VMhW9JzCTBu5\ngrok http --domain=possible-tapir-internally.ngrok-free.app 3001\n
     ngrok config add-authtoken 2lGTA18Nr45uNUDoOQJxMjlXACN_5E4es5i13VMhW9JzCTBu5
     ngrok http --domain=possible-tapir-internally.ngrok-free.app 3001
