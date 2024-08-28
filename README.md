@@ -9,7 +9,8 @@
   - [Install npm](#install-npm)
   - [Running](#running)
 
-
+- ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?logo=javascript&logoColor=000000)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
 # Getting started
 
