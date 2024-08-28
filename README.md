@@ -1,18 +1,32 @@
+# Table of Contents
+- [Getting started](#getting-started)
+  - [Ngrok](#ngrok)
+    - [Download Ngrok](#download-ngrok)
+      - [Windows](#windows)
+      - [MacOS](#macos)
+      - [Linux](#linux)
+    - [Run tunnels](#run-tunnels)
+  - [Install npm](#install-npm)
+  - [Running](#running)
+
+
+
 # Getting started
 
 To use this Telegram Mini App there is need _https_ protocol *(Telegram Api works only with _https_)*
 , and it is achieved with [Ngrok](https://ngrok.com/).
 
-## First set up ngrok and run tunnels
-### If using windows
+## Ngrok
+### Download Ngrok
+#### `Windows`
 ```choco install ngrok
     choco install ngrok
 ```
-### if using macOS
+#### `MacOS`
 ```brew install ngrok/ngrok/ngrok
     brew install ngrok/ngrok/ngrok
 ```
-### if using linux
+#### `Linux`
 ```snap install ngrok
     snap install ngrok
 ```
@@ -32,7 +46,7 @@ Run this two copiable pieces in two separate _command lines_
 ## Install npm
 Intall `node_modules` inside `api` , `ui`, `bot` folders
 
-### Running
+## Running
 Use `npm run start` to start the project in `api` and `ui` folders
 
 Use `npm run bot` to start bot in `bot` folder
