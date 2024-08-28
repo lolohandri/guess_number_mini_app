@@ -1,0 +1,16 @@
+services:
+  api:
+    image: ngrok/ngrok
+    environment:
+      - NGROK_AUTHTOKEN=2lGTA18Nr45uNUDoOQJxMjlXACN_5E4es5i13VMhW9JzCTBu5
+    command: http 3001 --domain=possible-tapir-internally.ngrok-free.app
+    ports:
+      - "3001:3001"
+  client:
+    image: ngrok/ngrok
+    environment:
+      - NGROK_AUTHTOKEN=2lFVYIGzWNdac1NbU5miyRRsNeu_6LF55QLFAfXMHHatxVQii
+    command: http 3000 --domain=up-steadily-lab.ngrok-free.app
+    ports:
+      - "3000:3000"
+
