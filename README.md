@@ -1,3 +1,11 @@
+# Tech Stack
+- ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+- ![Ngrok](https://img.shields.io/badge/Ngrok-003534?logo=ngrok&logoColor=white)
+
 # Table of Contents
 - [Getting started](#getting-started)
   - [Ngrok](#ngrok)
@@ -8,9 +16,6 @@
     - [Run tunnels](#run-tunnels)
   - [Install npm](#install-npm)
   - [Running](#running)
-
-- ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?logo=javascript&logoColor=000000)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
 # Getting started
 
